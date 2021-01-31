@@ -1,7 +1,9 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<h1>Guilherme Abreu <img src="https://emojis.slackmojis.com/emojis/images/1530702739/4197/vegan.jpg?1530702739" width="30"/></h1>
 
-My name is Guilherme Abreu. I work as a Software Engineer at GFT Group.
+Software engineer with 7 years of experience with great experience in the payment and banking industry starting projects from inception to delivery and maintenance. Java is my main language with Spring Framework and I have skills with Angular as a web based technology, software architecture, cloud infrastructure, and databases
+
+Degree in IT Management and a Postgraduate in Software Engineering.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gsabreu&repo=Gsabreu&countColorcountColor)
 

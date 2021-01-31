@@ -1,5 +1,5 @@
 
-<h1>Guilherme Abreu <img src="https://emojis.slackmojis.com/emojis/images/1530702739/4197/vegan.jpg?1530702739" width="30"/></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1580482487/7670/vegan.png?1580482487" width="30"/> Guilherme Abreu</h1>
 
 Software engineer with 7 years of experience with great experience in the payment and banking industry starting projects from inception to delivery and maintenance. Java is my main language with Spring Framework and I have skills with Angular as a web based technology, software architecture, cloud infrastructure, and databases
 
